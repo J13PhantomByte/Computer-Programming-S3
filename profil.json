@@ -1,0 +1,9 @@
+{
+    "id": 101,
+    "nama": "Juan",
+    "hobi": [
+        "Ngoprek",
+        "Olahraga"
+    ],
+    "aktif": true
+}
